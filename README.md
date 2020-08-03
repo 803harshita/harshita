@@ -64,3 +64,6 @@ else{
     digitalWrite(buzzer, LOW);
     speed = 0;
     flag1 = 0;
+    flag2 = 0:
+    }
+    }
